@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Fiind/static/css/main.c847a425.css",
+    "main.js": "/Fiind/static/js/main.dc59e713.js",
+    "static/js/787.97125703.chunk.js": "/Fiind/static/js/787.97125703.chunk.js",
+    "static/media/praia 2.jpg": "/Fiind/static/media/praia 2.3b769af97a6f41bc5091.jpg",
+    "static/media/fundophiphitailandia.jpg": "/Fiind/static/media/fundophiphitailandia.f1c3d3df7a487c5b587b.jpg",
+    "static/media/fundotulummexico.jpg": "/Fiind/static/media/fundotulummexico.809cb3ed0fec287431b1.jpg",
+    "static/media/photo3.jpg": "/Fiind/static/media/photo3.ff11638f0462fdc6b7ab.jpg",
+    "static/media/fundojordao.jpg": "/Fiind/static/media/fundojordao.7a93098415b92bbbd2d9.jpg",
+    "static/media/fundoorlando.jpg": "/Fiind/static/media/fundoorlando.9f23e29d1a995b957aeb.jpg",
+    "static/media/fundogramado.jpg": "/Fiind/static/media/fundogramado.e2b4ecb433a6ef0c1967.jpg",
+    "static/media/fundofortaleza.jpg": "/Fiind/static/media/fundofortaleza.f72e0bbe5e6029e9cf66.jpg",
+    "static/media/fundobuenosaires.jpg": "/Fiind/static/media/fundobuenosaires.da31e43d22f78ada6e5f.jpg",
+    "static/media/fundoWhitehaven.jpg": "/Fiind/static/media/fundoWhitehaven.b823d5f63d218302836d.jpg",
+    "static/media/fundolondres.jpg": "/Fiind/static/media/fundolondres.38e2da98a16fb80a8590.jpg",
+    "static/media/contato.png": "/Fiind/static/media/contato.eb14a4b81b636fa63422.png",
+    "static/media/depoimento3.jpg": "/Fiind/static/media/depoimento3.3e0d2988b2b1600b1ff6.jpg",
+    "static/media/depoimento5.jpg": "/Fiind/static/media/depoimento5.8ee91c409b625a818b5a.jpg",
+    "static/media/depoimento8.jpg": "/Fiind/static/media/depoimento8.c46741f5c03a00ffb9fe.jpg",
+    "static/media/depoimento4.jpg": "/Fiind/static/media/depoimento4.7d9ef92cec294ab04a39.jpg",
+    "static/media/depoimento1.jpg": "/Fiind/static/media/depoimento1.332122c476b192f8eab9.jpg",
+    "static/media/depoimento7.jpg": "/Fiind/static/media/depoimento7.0db91da2d6ef07d4edc7.jpg",
+    "static/media/depoimento2.jpg": "/Fiind/static/media/depoimento2.764984525bf1b1560ae6.jpg",
+    "static/media/depoimento6.jpg": "/Fiind/static/media/depoimento6.83c77ae7a1228282b653.jpg",
+    "index.html": "/Fiind/index.html",
+    "main.c847a425.css.map": "/Fiind/static/css/main.c847a425.css.map",
+    "main.dc59e713.js.map": "/Fiind/static/js/main.dc59e713.js.map",
+    "787.97125703.chunk.js.map": "/Fiind/static/js/787.97125703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c847a425.css",
+    "static/js/main.dc59e713.js"
+  ]
+}
